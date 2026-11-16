@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="23px" viewBox="0 0 13 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-446.000000, -173.000000)" fill="#CCCCCC" fill-rule="nonzero">
+            <path d="M458.532278,185.638618 L448.72626,195.527946 C448.102479,196.157351 447.091125,196.157351 446.467647,195.527946 C445.844118,194.8991 445.844118,193.879173 446.467647,193.250378 L455.144458,184.499835 L446.467899,175.749596 C445.84437,175.120496 445.84437,174.100671 446.467899,173.471825 C447.091428,172.842725 448.102731,172.842725 448.726513,173.471825 L458.53253,183.361305 C458.844294,183.675881 459,184.08773 459,184.499784 C459,184.91204 458.843992,185.324195 458.532278,185.638618 Z" id="arrow-right" transform="translate(452.500000, 184.500000) scale(1, -1) translate(-452.500000, -184.500000) "></path>
+        </g>
+    </g>
+</svg>
